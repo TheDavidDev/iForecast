@@ -10,7 +10,7 @@ function App() {
       </div>
       <div className="footer-info">
         Developed by{" "}
-        <a  href="https://www.TheDavid.dev/"target="_blank">
+        <a  href="https://www.TheDavid.dev/" target="_blank">
           The David Developer
         </a>{" "}
         | Powered by{" "}
