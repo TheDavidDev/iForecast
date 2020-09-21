@@ -1,8 +1,8 @@
-# Weather app { i Weather }
+# iForeCast [ My Weather app ]
 
-A weather app with open weather api, made with React.JS and Axios. 
+A Forecast app made with open weather api, React.JS and Axios. 
 
-### [Live Site](https://iWeather.netlify.app/)
+### [Live Site](https://iForecast.netlify.app/)
 
 ![Look at the weather around you](https://user-images.githubusercontent.com/51863978/93816124-5f554700-fc57-11ea-8725-63a6879e58bd.jpg)
 
