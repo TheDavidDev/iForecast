@@ -1,10 +1,10 @@
-# Weather app {Around Me}
+# Weather app { i Weather }
 
 A weather app with open weather api, made with React.JS and Axios. 
 
-### [Live Site](https://AroundMe.netlify.app/)
+### [Live Site](https://iWeather.netlify.app/)
 
-![Look at the weather around you](https://user-images.githubusercontent.com/51863978/93811288-29609480-fc50-11ea-83f9-da22e7823a8f.jpg)
+![Look at the weather around you](https://user-images.githubusercontent.com/51863978/93816124-5f554700-fc57-11ea-8725-63a6879e58bd.jpg)
 
 ## Introduction
 This is a code repository of a weather app using open weather api. 
