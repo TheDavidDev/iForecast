@@ -177,13 +177,13 @@ img {
   max-width: 100%;
 }
 .current-time {
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 100;
   margin-bottom: 10px;
   letter-spacing: 1px;
 }
 .current-date {
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 100;
   letter-spacing: 1px;
 }
