@@ -177,13 +177,13 @@ img {
   max-width: 100%;
 }
 .current-time {
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 100;
   margin-bottom: 10px;
   letter-spacing: 1px;
 }
 .current-date {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 100;
   letter-spacing: 1px;
 }
@@ -267,8 +267,7 @@ h1 {
 
 .date-time {
   position: absolute;
-  text-align: right;
-  margin-top: 0px;
+  bottom: 0;
   color: #fff;
   width: 90%;
   padding: 0 30px 10px 30px;
