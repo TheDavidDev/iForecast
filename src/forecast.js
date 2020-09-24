@@ -35,7 +35,7 @@ function Forecast(props) {
 
   const defaults = {
     color: "white",
-    size: 112,
+    size: 110,
     animate: true,
   };
 
