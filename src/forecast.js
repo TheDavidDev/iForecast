@@ -40,7 +40,7 @@ function Forecast(props) {
   };
 
   useEffect(() => {
-    search("Delhi");
+    search("Stockholm");
   }, []);
 
   return (
